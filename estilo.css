@@ -1,0 +1,102 @@
+    
+
+
+
+      .centro{
+            text-align: center;
+            color: white;
+    } 
+    
+     .tema{
+              color:white;
+          text-align:center;
+          clear: both;
+
+        }
+            #topo{  
+              
+               color: black;
+               
+             }
+           #inicio{
+              background: black;
+              padding: 30px;
+              color: black;
+              margin:20px;
+           }
+           .direita{
+            float:right;
+            color: green;
+           }
+           
+          .imagens{ float:left; width:200px;
+
+            }
+
+          #blck{ 
+           margin-left: auto;
+          float: left;
+            width:200px;
+             border:ridge;
+         
+          }    
+          #jjt{ 
+           margin-right: auto;
+           float:right;
+            width:200px;
+            border:ridge;
+
+
+          }
+          #rodape{
+      
+              background-color: black;
+              color:white;
+          }     
+
+          .border{ 
+           
+            margin: 20px;}
+
+          #clover{
+            background-color: blue;
+            
+            margin: 20px;
+          }
+
+          #jujutsu{ 
+           background-color: green;
+           
+            margin: 20px;
+
+          }
+
+          #fim{
+            background-color: red;
+          }
+
+
+            /*tags*/
+            body{
+              background-color: 2d2d2d;
+            }
+            div{
+              padding: 10px;
+
+            }
+          
+          p{ width: 300px
+            color:;
+            padding: 10px;
+            margin: 10px;
+           }
+          /*editores de links*/
+           
+           a:link{
+
+           }
+           a:hover{
+            background-color:red;
+            color:white;
+
+           }
